@@ -11,6 +11,9 @@
 ## Visto que cada célula está associada a um tipo (Markdown - texto; Code - código; Raw NBConvert - código que não vai ser corrido), para criar uma célula deve-se especificar o seu tipo alterando na lista dropdown.
 ![type](tipoCelula.png)
 
+## Para remover uma célula, é só selecionar a célula em questão, ir na aba “Edit” e clicar na opção “Delete Cells”.
+![apagar](remover.png)
+
 ## Para guardar as alterações é só carregar no icon do guardar.
 ![save](guardarCelula.png)
 
