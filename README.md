@@ -12,7 +12,7 @@
 ![type](tipoCelula.png)
 
 ## Para remover uma célula, é só selecionar a célula em questão, ir na aba “Edit” e clicar na opção “Delete Cells”.
-![apagar](remover.png)
+![apagar](remove.png)
 
 ## Para guardar as alterações é só carregar no icon do guardar.
 ![save](guardarCelula.png)
