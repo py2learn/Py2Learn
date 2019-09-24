@@ -22,7 +22,7 @@
 
 
 ## Clica no icon abaixo e inicia o teu curso, tornando-te assim num expert!!!
-Obs: ao abrir a página do Binder, aguarda até que sejas redirecionado para a diretoria dos notebooks e de seguida seleciona o notebook "MainPage.ipynb".
+Obs: ao abrir a página do Binder, aguarda até que sejas redirecionado para a diretoria dos notebooks e de seguida seleciona o notebook "Main.ipynb".
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py2learn/Py2Learn/master)
